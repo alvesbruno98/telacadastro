@@ -1,0 +1,7 @@
+{
+  "name": "telacadastro",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
